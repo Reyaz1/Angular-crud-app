@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "alam",
+      "lastName": "alam",
+      "email": "alam@gmail.com",
+      "dob": "2023-10-02T18:30:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "Golden bricks",
+      "experience": 7,
+      "package": 100000000,
+      "id": 1
+    }
+  ]
+}
